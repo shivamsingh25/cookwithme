@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cook #WithMe</string>
+    <string name="app_title">Cook #WithMe</string>
+    <string name="title"> </string>
+    <string name="go">Search for Recipes</string>
+    <string name="ingredients">Type ingredients here</string>
+    <string name="tag1">Stay Safe &amp;</string>
+    <string name="tag2">Cook\n#WithMe</string>
+    <string name="redirect">Opening web browser...</string>
+</resources>
